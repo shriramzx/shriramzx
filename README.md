@@ -1,24 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0b1220,100:071e2b&text=SHRIRAM%20S&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Engineering%20intelligent%20software%20%26%20AI%20systems.&descSize=17&descAlignY=63&descColor=8be9fd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=SHRIRAM%20S&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=ENGINEERING%20INTELLIGENT%20SOFTWARE%20%26%20AI%20SYSTEMS&descSize=16&descAlignY=58&descColor=8BE9FD&animation=fadeIn&gradientType=linear&color=0:030712,45:071827,100:001D2B" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=8BE9FD&center=true&vCenter=true&width=620&lines=AI+%2F+ML+%E2%80%A2+Software+Engineering;Building+intelligent+systems;Backend+%E2%80%A2+Automation+%E2%80%A2+Systems;Learning+by+building+real+software" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=850&color=8BE9FD&center=true&vCenter=true&width=720&lines=Artificial+Intelligence+%2F+Machine+Learning;Software+Engineering;Backend+Development;Intelligent+Automation;Building+systems+that+actually+work." />
 
 <br>
 
 <a href="https://github.com/shriramzx">
-<img src="https://img.shields.io/badge/GitHub-shriramzx-0b0f14?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-shriramzx-0A0F14?style=for-the-badge&logo=github&logoColor=8BE9FD"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-`AI / ML`  •  `Software Engineering`  •  `Backend`  •  `Automation`  •  `Systems`
+`AI / ML`　`SOFTWARE`　`BACKEND`　`SYSTEMS`　`AUTOMATION`
 
 </div>
 
@@ -26,77 +20,37 @@
 
 <div align="center">
 
-## ◈ ABOUT
-
-</div>
-
-I'm a **Computer Science & AI/ML student** focused on building practical software, intelligent systems, and automation.
-
-I enjoy understanding how systems work under the hood and turning ideas into working software — from **AI assistants and local LLMs** to **backend applications and system-level programming**.
-
-> **Learn → Build → Break → Understand → Improve**
-
----
-
-<div align="center">
-
-## ⚡ CURRENTLY BUILDING
+### `01 / IDENTITY`
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="65%" valign="top">
 
-<h3 align="center">🤖 JARVIS.01</h3>
+### 👋 Hello, I'm Shriram.
 
-<div align="center">
+I'm a **Computer Science & AI/ML student** focused on building practical software, intelligent systems and automation.
 
-**Personal AI Assistant**
-
-</div>
-
-A modular AI assistant built around:
-
-* Voice interaction
-* Local LLMs
-* Memory
-* Intent classification
-* Command routing
-* Automation
-* Modular architecture
-
-<div align="center">
-
-`Python` `Ollama` `AI` `Automation`
-
-</div>
+I like going beyond simply using technologies — I want to understand how systems work internally and turn that understanding into real projects.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
-<h3 align="center">🧑‍💻 AI INTERVIEW PORTAL</h3>
+```text
+STATUS
 
-<div align="center">
+● BUILDING
+● LEARNING
+● EXPERIMENTING
 
-**AI-Powered Interview Platform**
+FOCUS
 
-</div>
-
-A full-stack project focused on:
-
-* Java backend development
-* Interview workflows
-* AI-assisted functionality
-* Web application development
-* Practical software architecture
-
-<div align="center">
-
-`Java` `HTML` `CSS` `AI`
-
-</div>
+AI
+SOFTWARE
+SYSTEMS
+```
 
 </td>
 </tr>
@@ -106,21 +60,90 @@ A full-stack project focused on:
 
 <div align="center">
 
-## ◈ TECH ARSENAL
+### `02 / CURRENTLY BUILDING`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+## 🤖
+
+# JARVIS.01
+
+`PERSONAL AI ASSISTANT`
+
+</div>
+
+A modular AI assistant built around **local intelligence, voice interaction, memory and automation**.
+
+```text
+VOICE
+  ↓
+PARSER
+  ↓
+INTENT
+  ↓
+ROUTER
+  ↓
+AI / SKILLS
+  ↓
+AUTOMATION
+```
+
+`Python` `Ollama` `LLM` `Memory` `Automation`
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+## 🧑‍💻
+
+# AI INTERVIEW PORTAL
+
+`AI-POWERED PLATFORM`
+
+</div>
+
+A project focused on **Java backend engineering**, web development and AI-assisted interview workflows.
+
+```text
+USER
+ ↓
+WEB
+ ↓
+JAVA BACKEND
+ ↓
+AI ENGINE
+ ↓
+EVALUATION
+```
+
+`Java` `HTML` `CSS` `Backend` `AI`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `03 / TECH ARSENAL`
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode&perline=9&theme=dark" />
 
 <br><br>
 
-### AI / ML
-
-`Artificial Intelligence`   `Machine Learning`   `LLMs`   `Ollama`
-
-### Backend / Systems
-
-`Java Backend`   `Python`   `APIs`   `Operating Systems`   `System Programming`
+`PYTHON`　`JAVA`　`C`　`JAVASCRIPT`
+`AI / ML`　`LLMs`　`OLLAMA`　`APIs`　`SYSTEMS`
 
 </div>
 
@@ -128,60 +151,61 @@ A full-stack project focused on:
 
 <div align="center">
 
-## 🚀 FEATURED WORK
+### `04 / FEATURED WORK`
 
 </div>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td align="center" width="33%">
 
 ### `01`
 
-## Jarvis.01
+## JARVIS.01
 
-A modular personal AI assistant combining **voice, memory, local LLMs, intent classification and automation**.
+Personal AI assistant
 
-**Focus**
+**AI Systems**
+**Local LLM**
+**Voice**
+**Memory**
+**Automation**
 
-`AI Systems`
-`Local AI`
-`Automation`
-`Architecture`
+`PYTHON`
 
 </td>
 
-<td width="33%" valign="top">
+<td align="center" width="33%">
 
 ### `02`
 
-## AI Interview Portal
+## AI INTERVIEW
 
-A Java-based platform designed around **AI-assisted interviews, backend engineering and web technologies**.
+AI-powered interview platform
 
-**Focus**
+**Java Backend**
+**Web**
+**AI Integration**
+**Interview Workflow**
 
-`Java`
-`Backend`
-`AI Integration`
-`Web`
+`JAVA`
 
 </td>
 
-<td width="33%" valign="top">
+<td align="center" width="33%">
 
 ### `03`
 
-## Systems Programming
+## SYSTEMS
 
-Practical implementations exploring **Operating Systems, scheduling, synchronization and system programming**.
+Operating-system projects
 
-**Focus**
+**Scheduling**
+**Synchronization**
+**Algorithms**
+**System Programming**
 
 `C`
-`Operating Systems`
-`Algorithms`
-`Concurrency`
 
 </td>
 </tr>
@@ -191,17 +215,17 @@ Practical implementations exploring **Operating Systems, scheduling, synchroniza
 
 <div align="center">
 
-## ◈ GITHUB SIGNAL
+### `05 / GITHUB SIGNAL`
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shriramzx&show_icons=true&hide_border=true&bg_color=00000000&title_color=8be9fd&icon_color=8be9fd&text_color=c9d1d9&ring_color=8be9fd&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shriramzx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8BE9FD&icon_color=8BE9FD&text_color=C9D1D9&rank_icon=github&include_all_commits=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriramzx&layout=compact&hide_border=true&bg_color=00000000&title_color=8be9fd&text_color=c9d1d9" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriramzx&layout=compact&hide_border=true&bg_color=0D1117&title_color=8BE9FD&text_color=C9D1D9&langs_count=8" width="42%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=shriramzx&hide_border=true&background=00000000&ring=8BE9FD&fire=8BE9FD&currStreakLabel=8BE9FD&sideLabels=C9D1D9&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=shriramzx&theme=dark&hide_border=true&background=0D1117&ring=8BE9FD&fire=8BE9FD&currStreakLabel=8BE9FD&sideLabels=C9D1D9&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF" width="72%"/>
 
 </div>
 
@@ -209,9 +233,11 @@ Practical implementations exploring **Operating Systems, scheduling, synchroniza
 
 <div align="center">
 
-## ◈ CONTRIBUTION MATRIX
+### `06 / DEVELOPMENT ACTIVITY`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shriramzx&bg_color=00000000&color=8be9fd&line=8be9fd&point=ffffff&area=true&hide_border=true&custom_title=Shriram's%20Development%20Activity" width="96%"/>
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shriramzx&bg_color=0D1117&color=8BE9FD&line=00C8FF&point=FFFFFF&area_color=073642&area=true&hide_border=true&custom_title=SHRIRAM%20S%20%E2%80%94%20DEVELOPMENT%20ACTIVITY" width="96%"/>
 
 </div>
 
@@ -219,15 +245,15 @@ Practical implementations exploring **Operating Systems, scheduling, synchroniza
 
 <div align="center">
 
-## 🧠 CURRENT FOCUS
+### `07 / CURRENT FOCUS`
 
 <table>
 <tr>
-<td align="center">🤖<br><b>AI Engineering</b></td>
-<td align="center">⚙️<br><b>Software Engineering</b></td>
-<td align="center">☕<br><b>Java Backend</b></td>
-<td align="center">🧩<br><b>System Design</b></td>
-<td align="center">🔧<br><b>Automation</b></td>
+<td align="center">🤖<br><b>AI ENGINEERING</b></td>
+<td align="center">⚙️<br><b>SOFTWARE</b></td>
+<td align="center">☕<br><b>JAVA BACKEND</b></td>
+<td align="center">🧩<br><b>SYSTEM DESIGN</b></td>
+<td align="center">⚡<br><b>AUTOMATION</b></td>
 </tr>
 </table>
 
@@ -237,19 +263,22 @@ Practical implementations exploring **Operating Systems, scheduling, synchroniza
 
 <div align="center">
 
-## ◈ DEVELOPMENT PHILOSOPHY
+### `08 / ENGINEERING MINDSET`
 
 <br>
 
-### `BUILD REAL THINGS.`
+```text
+┌──────────┐     ┌──────────┐     ┌──────────┐
+│   LEARN  │ ──▶ │  BUILD   │ ──▶ │  BREAK   │
+└──────────┘     └──────────┘     └──────────┘
+                                      │
+                                      ▼
+┌──────────┐     ┌──────────┐     ┌──────────┐
+│ IMPROVE  │ ◀── │ UNDERSTAND│ ◀── │  DEBUG   │
+└──────────┘     └──────────┘     └──────────┘
+```
 
-**Learn** → **Build** → **Break** → **Understand** → **Improve**
-
-<br>
-
-I don't want to only learn technologies.
-
-**I want to understand them by building with them.**
+**Build real things. Understand how they work. Make them better.**
 
 </div>
 
@@ -257,18 +286,21 @@ I don't want to only learn technologies.
 
 <div align="center">
 
-## 🌐 CONNECT
+### `09 / CONNECT`
 
 <a href="https://github.com/shriramzx">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=8BE9FD"/>
 </a>
 
-</div>
+<br><br>
+
+`SHRIRAM S`
+
+**Engineering intelligent software & AI systems.**
 
 <br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:071e2b,50:0b1220,100:050505" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:001D2B,50:071827,100:030712" width="100%"/>
 
 </div>
+
