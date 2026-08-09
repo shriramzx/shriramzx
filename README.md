@@ -1,71 +1,75 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=SHRIRAM%20S&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20SOFTWARE%20%20%E2%80%A2%20%20SYSTEMS&descSize=17&descAlignY=62&descColor=8BE9FD&animation=twinkling&color=0:030712,40:071827,75:003047,100:030712"/>
 
-<!--                         HERO                                   -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<a href="https://github.com/shriramzx">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=SHRIRAM%20S&fontSize=62&fontAlignY=38&fontColor=FFFFFF&desc=ENGINEERING%20INTELLIGENT%20SOFTWARE%20%26%20AI%20SYSTEMS&descAlignY=58&descSize=16&descColor=8BE9FD&animation=twinkling&color=0:020617,35:071827,70:003047,100:020617"/>
-
-</a>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=8BE9FD&center=true&vCenter=true&width=760&lines=AI+%2F+ML+ENGINEERING;SOFTWARE+ENGINEERING;BACKEND+DEVELOPMENT;INTELLIGENT+AUTOMATION;BUILDING+SYSTEMS+THAT+ACTUALLY+WORK" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=8BE9FD&center=true&vCenter=true&width=700&lines=Engineering+intelligent+software+%26+AI+systems;Building+Jarvis.01;Exploring+AI%2C+backend+%26+systems;Learn+%E2%86%92+Build+%E2%86%92+Understand+%E2%86%92+Improve"/>
 
 <br>
 
 <a href="https://github.com/shriramzx">
-<img src="https://img.shields.io/badge/GITHUB-SHRIRAMZX-020617?style=for-the-badge&logo=github&logoColor=8BE9FD"/>
+<img src="https://img.shields.io/badge/%40shriramzx-020617?style=for-the-badge&logo=github&logoColor=8BE9FD"/>
 </a>
-
-<br><br>
-
-`AI / ML`　•　`SOFTWARE`　•　`BACKEND`　•　`SYSTEMS`　•　`AUTOMATION`
 
 </div>
 
 <br>
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  $ whoami                                                  │
+│  shriram                                                    │
+│                                                            │
+│  $ role                                                     │
+│  Computer Science & AI/ML Student                          │
+│                                                            │
+│  $ currently_building                                       │
+│  Jarvis.01                                                  │
+│                                                            │
+│  $ interests                                                │
+│  AI  •  Software  •  Backend  •  Systems  •  Automation   │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+</div>
 
 ---
 
 <div align="center">
 
-# `01 / PROFILE`
+## `01`   ABOUT
 
 </div>
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="68%" valign="top">
 
-## 👋 Shriram S
+### Building. Learning. Experimenting.
 
-I'm a **Computer Science & AI/ML student** focused on building practical software, intelligent systems, and automation.
+I'm a **Computer Science & AI/ML student** focused on building practical software, intelligent systems and automation.
 
-I enjoy understanding systems from the inside out and turning ideas into working software — from **AI assistants and local LLMs** to **backend applications and system-level programming**.
+I enjoy understanding how systems work under the hood and turning that understanding into real projects — from **AI assistants and local LLMs** to **backend applications and system-level programming**.
 
 </td>
 
-<td width="35%" valign="top">
+<td width="32%" valign="top">
 
 ```text
-┌──────────────────┐
-│     SYSTEM       │
-├──────────────────┤
-│                  │
-│  ● BUILDING      │
-│  ● LEARNING      │
-│  ● EXPERIMENTING │
-│                  │
-├──────────────────┤
-│                  │
-│  AI              │
-│  SOFTWARE        │
-│  SYSTEMS         │
-│                  │
-└──────────────────┘
+┌─────────────────────┐
+│       PROFILE       │
+├─────────────────────┤
+│                     │
+│  AI / ML            │
+│  SOFTWARE           │
+│  BACKEND            │
+│  SYSTEMS            │
+│  AUTOMATION         │
+│                     │
+└─────────────────────┘
 ```
 
 </td>
@@ -76,11 +80,7 @@ I enjoy understanding systems from the inside out and turning ideas into working
 
 <div align="center">
 
-# `02 / CURRENTLY BUILDING`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&text=◈%20ACTIVE%20PROJECTS&fontSize=22&fontColor=8BE9FD&color=0:020617,50:071827,100:020617&animation=fadeIn"/>
+## `02`   CURRENTLY BUILDING
 
 </div>
 
@@ -91,77 +91,77 @@ I enjoy understanding systems from the inside out and turning ideas into working
 
 <div align="center">
 
-# 🤖
+### `01`
 
-## JARVIS.01
+# 🤖 JARVIS.01
 
-`PERSONAL AI ASSISTANT`
+**PERSONAL AI ASSISTANT**
 
 </div>
 
-A modular AI assistant designed around **voice interaction, local LLMs, memory, intent classification and automation**.
+A modular personal AI assistant built around **voice interaction, local LLMs, memory, intent classification and automation**.
 
 ```text
-VOICE
-  │
-  ▼
-PARSER
-  │
-  ▼
-INTENT
-  │
-  ▼
-ROUTER
-  │
-  ├── AI
-  ├── MEMORY
-  ├── SKILLS
-  └── AUTOMATION
+┌──────────┐
+│  VOICE   │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  PARSER  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  INTENT  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  ROUTER  │
+└────┬─────┘
+     ↓
+┌─────────────────┐
+│ AI / MEMORY /   │
+│ SKILLS / AUTO   │
+└─────────────────┘
 ```
-
-<div align="center">
 
 `PYTHON` `OLLAMA` `LLM` `VOICE` `MEMORY`
 
-</div>
-
 </td>
 
 <td width="50%" valign="top">
 
 <div align="center">
 
-# 🧑‍💻
+### `02`
 
-## AI INTERVIEW PORTAL
+# 🧑‍💻 AI INTERVIEW PORTAL
 
-`AI-POWERED PLATFORM`
+**AI-POWERED PLATFORM**
 
 </div>
 
-A project focused on **Java backend engineering, web development and AI-assisted interview workflows**.
+A project focused on **Java backend development, web technologies and AI-assisted interview workflows**.
 
 ```text
-USER
-  │
-  ▼
-WEB INTERFACE
-  │
-  ▼
-JAVA BACKEND
-  │
-  ▼
-AI ENGINE
-  │
-  ▼
-EVALUATION
+┌──────────┐
+│   USER   │
+└────┬─────┘
+     ↓
+┌──────────┐
+│   WEB    │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  JAVA    │
+│ BACKEND  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│    AI    │
+└──────────┘
 ```
 
-<div align="center">
-
 `JAVA` `HTML` `CSS` `BACKEND` `AI`
-
-</div>
 
 </td>
 
@@ -172,7 +172,7 @@ EVALUATION
 
 <div align="center">
 
-# `03 / TECH ARSENAL`
+## `03`   TECH ARSENAL
 
 <br>
 
@@ -180,11 +180,13 @@ EVALUATION
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-020617?style=for-the-badge&logoColor=8BE9FD"/>
-<img src="https://img.shields.io/badge/LLMs-071827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-003047?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/APIs-071827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Systems-020617?style=for-the-badge"/>
+```text
+AI / ML
+Artificial Intelligence  •  Machine Learning  •  LLMs  •  Ollama
+
+BACKEND / SYSTEMS
+Java Backend  •  Python  •  APIs  •  Operating Systems  •  System Programming
+```
 
 </div>
 
@@ -192,7 +194,7 @@ EVALUATION
 
 <div align="center">
 
-# `04 / FEATURED WORK`
+## `04`   FEATURED WORK
 
 </div>
 
@@ -205,23 +207,15 @@ EVALUATION
 
 ### `01`
 
-# 🤖
-
 ## JARVIS.01
 
 </div>
 
 **Personal AI Assistant**
 
-A modular system combining:
+Voice • Memory • Local LLM • Intent • Automation
 
-`VOICE`
-`MEMORY`
-`LOCAL LLM`
-`INTENT`
-`AUTOMATION`
-
-**Core:** Python
+`PYTHON`
 
 </td>
 
@@ -231,22 +225,15 @@ A modular system combining:
 
 ### `02`
 
-# 🧠
-
 ## AI INTERVIEW
 
 </div>
 
 **AI Interview Platform**
 
-Focused on:
+Java • Backend • AI • Web
 
 `JAVA`
-`BACKEND`
-`AI`
-`WEB`
-
-**Core:** Java
 
 </td>
 
@@ -256,22 +243,15 @@ Focused on:
 
 ### `03`
 
-# ⚙️
-
 ## SYSTEMS
 
 </div>
 
 **Systems Programming**
 
-Exploring:
+OS • Scheduling • Synchronization • Algorithms
 
-`OS`
-`SCHEDULING`
-`SYNC`
-`ALGORITHMS`
-
-**Core:** C
+`C`
 
 </td>
 
@@ -282,17 +262,17 @@ Exploring:
 
 <div align="center">
 
-# `05 / GITHUB SIGNAL`
+## `05`   GITHUB SIGNAL
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shriramzx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=8BE9FD&icon_color=00C8FF&text_color=C9D1D9&ring_color=8BE9FD&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shriramzx&show_icons=true&hide_border=true&bg_color=030712&title_color=8BE9FD&icon_color=00C8FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriramzx&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=8BE9FD&text_color=C9D1D9" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriramzx&layout=compact&langs_count=8&hide_border=true&bg_color=030712&title_color=8BE9FD&text_color=C9D1D9" width="42%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=shriramzx&hide_border=true&background=020617&ring=8BE9FD&fire=00C8FF&currStreakLabel=8BE9FD&sideLabels=C9D1D9&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=shriramzx&hide_border=true&background=030712&ring=8BE9FD&fire=00C8FF&currStreakLabel=8BE9FD&sideLabels=C9D1D9&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
 
 </div>
 
@@ -300,11 +280,11 @@ Exploring:
 
 <div align="center">
 
-# `06 / DEVELOPMENT ACTIVITY`
+## `06`   DEVELOPMENT ACTIVITY
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shriramzx&bg_color=020617&color=8BE9FD&line=00C8FF&point=FFFFFF&area=true&area_color=003047&hide_border=true&custom_title=SHRIRAM%20S%20%E2%80%94%20DEVELOPMENT%20ACTIVITY" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shriramzx&bg_color=030712&color=8BE9FD&line=00C8FF&point=FFFFFF&area=true&area_color=003047&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" width="96%"/>
 
 </div>
 
@@ -312,9 +292,7 @@ Exploring:
 
 <div align="center">
 
-# `07 / CURRENT FOCUS`
-
-<br>
+## `07`   CURRENT FOCUS
 
 <table>
 <tr>
@@ -368,15 +346,13 @@ Exploring:
 
 <div align="center">
 
-# `08 / ENGINEERING MINDSET`
+## `08`   ENGINEERING MINDSET
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=8BE9FD&center=true&vCenter=true&width=700&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+UNDERSTAND+%E2%86%92+IMPROVE"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8BE9FD&center=true&vCenter=true&width=650&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+UNDERSTAND+%E2%86%92+IMPROVE" />
-
-<br><br>
-
-**Build real things. Understand how they work. Make them better.**
+> **Build real things. Understand how they work. Make them better.**
 
 </div>
 
@@ -384,24 +360,32 @@ Exploring:
 
 <div align="center">
 
-# `09 / CONNECT`
+## `09`   CONNECT
 
 <br>
 
 <a href="https://github.com/shriramzx">
-<img src="https://img.shields.io/badge/GITHUB-SHRIRAMZX-020617?style=for-the-badge&logo=github&logoColor=8BE9FD"/>
+<img src="https://img.shields.io/badge/GITHUB-shriramzx-020617?style=for-the-badge&logo=github&logoColor=8BE9FD"/>
 </a>
 
 <br><br>
 
-`SHRIRAM S`
-
-### Engineering intelligent software & AI systems.
+```text
+╭────────────────────────────────────────╮
+│                                        │
+│  SHRIRAM S                             │
+│                                        │
+│  Engineering intelligent software     │
+│  & AI systems.                         │
+│                                        │
+╰────────────────────────────────────────╯
+```
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:003047,45:071827,100:020617&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:003047,45:071827,100:030712&animation=twinkling" width="100%"/>
 
 </div>
+
 
 
