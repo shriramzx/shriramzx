@@ -1,390 +1,184 @@
-<div align="center">
+SHRIRAM S
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=SHRIRAM%20S&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20SOFTWARE%20%20%E2%80%A2%20%20SYSTEMS&descSize=17&descAlignY=62&descColor=8BE9FD&animation=twinkling&color=0:030712,40:071827,75:003047,100:030712"/>
+AI/ML Student · B.Tech CSE-AIML · Chennai, India
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=8BE9FD&center=true&vCenter=true&width=700&lines=Engineering+intelligent+software+%26+AI+systems;Building+Jarvis.01;Exploring+AI%2C+backend+%26+systems;Learn+%E2%86%92+Build+%E2%86%92+Understand+%E2%86%92+Improve"/>
+<p align="center">
+<strong>Engineering intelligent software and AI systems</strong>
+</p> <p align="center">
+  <a href="https://github.com/shriramzx"><img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-%40shriramzx-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/shriramzx"><img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=shriramzx&label=Profile+Views&color=blue&style=for-the-badge"/></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=shriramzx&show_icons=true&theme=dark&hide_border=true"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shriramzx&show_icons=true&theme=dark&hide_border=true"/></a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=shriramzx&theme=dark&hide_border=true"><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shriramzx&theme=dark&hide_border=true"/></a>
+</p>
 
-<br>
 
-<a href="https://github.com/shriramzx">
-<img src="https://img.shields.io/badge/%40shriramzx-020617?style=for-the-badge&logo=github&logoColor=8BE9FD"/>
-</a>
 
-</div>
 
-<br>
+👋 About Me
 
-<div align="center">
+I'm a second-year B.Tech student in Computer Science & Engineering (AI/ML ) based in Chennai, India. My focus is on turning theoretical knowledge into working software — from computer vision projects with OpenCV to AI assistants powered by local LLMs, and system-level programming in C and Java.
 
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  $ whoami                                                  │
-│  shriram                                                    │
-│                                                            │
-│  $ role                                                     │
-│  Computer Science & AI/ML Student                          │
-│                                                            │
-│  $ currently_building                                       │
-│  Jarvis.01                                                  │
-│                                                            │
-│  $ interests                                                │
-│  AI  •  Software  •  Backend  •  Systems  •  Automation   │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
+I believe in the engineer's loop: build real things, understand how they work under the hood, and make them better. Every project on this profile started as curiosity and became a working system.
 
-</div>
 
----
+"The best way to learn is to build."
 
-<div align="center">
 
-## `01`   ABOUT
 
-</div>
 
-<table>
-<tr>
-<td width="68%" valign="top">
+🚀 Currently Building
 
-### Building. Learning. Experimenting.
+🤖 Jarvis.01 — A modular personal AI assistant built around voice interaction, local LLMs (Ollama), memory, intent classification, and task automation. The pipeline flows: Voice → Parser → Intent → Router → AI / Memory / Skills / Automation.
 
-I'm a **Computer Science & AI/ML student** focused on building practical software, intelligent systems and automation.
+🧑‍💻 AI Interview Portal — An AI-powered interview platform with a Java backend, featuring web technologies and AI-assisted interview workflows.
 
-I enjoy understanding how systems work under the hood and turning that understanding into real projects — from **AI assistants and local LLMs** to **backend applications and system-level programming**.
 
-</td>
 
-<td width="32%" valign="top">
 
-```text
-┌─────────────────────┐
-│       PROFILE       │
-├─────────────────────┤
-│                     │
-│  AI / ML            │
-│  SOFTWARE           │
-│  BACKEND            │
-│  SYSTEMS            │
-│  AUTOMATION         │
-│                     │
-└─────────────────────┘
-```
+🏆 My Project Repositories
 
-</td>
-</tr>
-</table>
+I've built 4 open-source projects (all MIT licensed), mostly centered around computer vision and gesture-based interaction using OpenCV and MediaPipe:
 
----
+1. 📷 face-attendance — Python · OpenCV
 
-<div align="center">
+An automatic attendance system using face recognition. Built with OpenCV, it captures and matches faces against a registered database to mark attendance automatically — no manual roll call needed.
 
-## `02`   CURRENTLY BUILDING
+What it demonstrates: Real-time face detection, face recognition pipelines, and practical application of computer vision in an everyday workflow.
 
-</div>
+2. 🎨 gesture-painter — Python · MediaPipe · OpenCV
 
-<table>
-<tr>
+A virtual canvas you draw on with your hands. Using MediaPipe hand tracking and OpenCV, it lets you paint on screen by tracing finger movements — no mouse or stylus required.
 
-<td width="50%" valign="top">
+What it demonstrates: Hand landmark detection, real-time gesture-to-ink mapping, and creative human–computer interaction.
 
-<div align="center">
+3. 🧩 webcam-puzzle — Python · OpenCV
 
-### `01`
+A live webcam sliding puzzle made from your own face. It captures a live video frame, chops it into a sliding tile puzzle, and you solve it live — a playful twist on classic puzzle games.
 
-# 🤖 JARVIS.01
+What it demonstrates: Image tiling, live video capture, and algorithmic puzzle logic combined with OpenCV.
 
-**PERSONAL AI ASSISTANT**
+4. 🖼️ gesture-gallery — HTML · Three.js · MediaPipe
 
-</div>
+A 3D art gallery you navigate with hand gestures. Built with Three.js for the 3D scene and MediaPipe for hand tracking, you can walk through a virtual gallery and browse artwork hands-free.
 
-A modular personal AI assistant built around **voice interaction, local LLMs, memory, intent classification and automation**.
+What it demonstrates: 3D web graphics, combining browser-based gesture tracking with immersive environments.
 
-```text
-┌──────────┐
-│  VOICE   │
-└────┬─────┘
-     ↓
-┌──────────┐
-│  PARSER  │
-└────┬─────┘
-     ↓
-┌──────────┐
-│  INTENT  │
-└────┬─────┘
-     ↓
-┌──────────┐
-│  ROUTER  │
-└────┬─────┘
-     ↓
-┌─────────────────┐
-│ AI / MEMORY /   │
-│ SKILLS / AUTO   │
-└─────────────────┘
-```
+Project
+One-Line Summary
+Core Tech
+face-attendance
+Automatic attendance via face recognition
+Python, OpenCV
+gesture-painter
+Paint on a canvas using hand gestures
+Python, MediaPipe, OpenCV
+webcam-puzzle
+Live webcam sliding puzzle of your own face
+Python, OpenCV
+gesture-gallery
+Navigate a 3D gallery with hand gestures
+HTML, Three.js, MediaPipe
 
-`PYTHON` `OLLAMA` `LLM` `VOICE` `MEMORY`
 
-</td>
 
-<td width="50%" valign="top">
 
-<div align="center">
 
-### `02`
 
-# 🧑‍💻 AI INTERVIEW PORTAL
 
-**AI-POWERED PLATFORM**
+💻 Also Working On
 
-</div>
+Project
+Description
+Tech Stack
+OS-LAB
+Operating system concepts in practice — scheduling, synchronization, algorithms
+C
 
-A project focused on **Java backend development, web technologies and AI-assisted interview workflows**.
 
-```text
-┌──────────┐
-│   USER   │
-└────┬─────┘
-     ↓
-┌──────────┐
-│   WEB    │
-└────┬─────┘
-     ↓
-┌──────────┐
-│  JAVA    │
-│ BACKEND  │
-└────┬─────┘
-     ↓
-┌──────────┐
-│    AI    │
-└──────────┘
-```
 
-`JAVA` `HTML` `CSS` `BACKEND` `AI`
 
-</td>
 
-</tr>
-</table>
 
----
 
-<div align="center">
+🛠 Tech Arsenal
 
-## `03`   TECH ARSENAL
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode&theme=dark&perline=9"/>
-
-<br><br>
-
-```text
 AI / ML
-Artificial Intelligence  •  Machine Learning  •  LLMs  •  Ollama
 
-BACKEND / SYSTEMS
-Java Backend  •  Python  •  APIs  •  Operating Systems  •  System Programming
-```
+•
+Artificial Intelligence & Machine Learning
 
-</div>
+•
+LLMs · Ollama · Voice AI · Intent Classification
 
----
+Programming Languages
 
-<div align="center">
+•
+Python · C · C++ · Java · HTML/CSS/JavaScript
 
-## `04`   FEATURED WORK
+Backend / Systems
 
-</div>
+•
+Java Backend · REST APIs · Operating Systems · System Programming
 
-<table>
-<tr>
+Computer Vision
 
-<td width="33%" valign="top">
+•
+OpenCV · MediaPipe · Face Recognition · Gesture Tracking
 
-<div align="center">
+Web & Tools
 
-### `01`
+•
+Three.js · Git & GitHub · VS Code · Linux
 
-## JARVIS.01
 
-</div>
 
-**Personal AI Assistant**
 
-Voice • Memory • Local LLM • Intent • Automation
+📊 GitHub Activity
 
-`PYTHON`
+<p align="center">
+<a href="https://github.com/shriramzx"><img alt="GitHub Contribution Graph" src="https://ghchart.rshah.org/shriramzx"/></a>
+  <a href="https://github.com/shriramzx"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriramzx&layout=compact&theme=dark&hide_border=true&langs_count=8"/></a>
+</p>
 
-</td>
 
-<td width="33%" valign="top">
 
-<div align="center">
 
-### `02`
+🎯 Current Focus
 
-## AI INTERVIEW
+Focus Area
+What I'm Exploring
+🤖 AI Engineering
+Local LLMs, voice AI, AI assistants
+☕ Java Backend
+Web applications, APIs, interview platforms
+🧩 Systems & OS
+Scheduling, synchronization, algorithms in C
+🎨 Computer Vision
+OpenCV, MediaPipe, gesture-based interfaces
+⚡ Automation
+Workflow automation, intelligent agents
 
-</div>
 
-**AI Interview Platform**
 
-Java • Backend • AI • Web
 
-`JAVA`
 
-</td>
 
-<td width="33%" valign="top">
 
-<div align="center">
+📬 Let's Connect
 
-### `03`
+<p align="center">
+<a href="https://github.com/shriramzx"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-handle"><img alt="Twitter" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
 
-## SYSTEMS
 
-</div>
 
-**Systems Programming**
 
-OS • Scheduling • Synchronization • Algorithms
+<p align="center">
+<i>Engineering intelligent software & AI systems — one project at a time.</i>
+</p>
 
-`C`
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `05`   GITHUB SIGNAL
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=shriramzx&show_icons=true&hide_border=true&bg_color=030712&title_color=8BE9FD&icon_color=00C8FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriramzx&layout=compact&langs_count=8&hide_border=true&bg_color=030712&title_color=8BE9FD&text_color=C9D1D9" width="42%"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=shriramzx&hide_border=true&background=030712&ring=8BE9FD&fire=00C8FF&currStreakLabel=8BE9FD&sideLabels=C9D1D9&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `06`   DEVELOPMENT ACTIVITY
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shriramzx&bg_color=030712&color=8BE9FD&line=00C8FF&point=FFFFFF&area=true&area_color=003047&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" width="96%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `07`   CURRENT FOCUS
-
-<table>
-<tr>
-
-<td align="center">
-<br>
-🤖
-<br><br>
-<b>AI ENGINEERING</b>
-<br><br>
-</td>
-
-<td align="center">
-<br>
-⚙️
-<br><br>
-<b>SOFTWARE</b>
-<br><br>
-</td>
-
-<td align="center">
-<br>
-☕
-<br><br>
-<b>JAVA BACKEND</b>
-<br><br>
-</td>
-
-<td align="center">
-<br>
-🧩
-<br><br>
-<b>SYSTEM DESIGN</b>
-<br><br>
-</td>
-
-<td align="center">
-<br>
-⚡
-<br><br>
-<b>AUTOMATION</b>
-<br><br>
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## `08`   ENGINEERING MINDSET
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=8BE9FD&center=true&vCenter=true&width=700&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+UNDERSTAND+%E2%86%92+IMPROVE"/>
-
-<br>
-
-> **Build real things. Understand how they work. Make them better.**
-
-</div>
-
----
-
-<div align="center">
-
-## `09`   CONNECT
-
-<br>
-
-<a href="https://github.com/shriramzx">
-<img src="https://img.shields.io/badge/GITHUB-shriramzx-020617?style=for-the-badge&logo=github&logoColor=8BE9FD"/>
-</a>
-
-<br><br>
-
-```text
-╭────────────────────────────────────────╮
-│                                        │
-│  SHRIRAM S                             │
-│                                        │
-│  Engineering intelligent software     │
-│  & AI systems.                         │
-│                                        │
-╰────────────────────────────────────────╯
-```
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:003047,45:071827,100:030712&animation=twinkling" width="100%"/>
-
-</div>
 
 
