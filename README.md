@@ -1,184 +1,457 @@
-SHRIRAM S
+<div align="center">
 
-AI/ML Student · B.Tech CSE-AIML · Chennai, India
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=SHRIRAM%20S&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20SYSTEMS&descSize=17&descAlignY=60&descColor=8BE9FD&animation=twinkling&color=0:020617,35:071827,70:003047,100:020617"/>
 
-<p align="center">
-<strong>Engineering intelligent software and AI systems</strong>
-</p> <p align="center">
-  <a href="https://github.com/shriramzx"><img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-%40shriramzx-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/shriramzx"><img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=shriramzx&label=Profile+Views&color=blue&style=for-the-badge"/></a>
-  <a href="https://github-readme-stats.vercel.app/api?username=shriramzx&show_icons=true&theme=dark&hide_border=true"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shriramzx&show_icons=true&theme=dark&hide_border=true"/></a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=shriramzx&theme=dark&hide_border=true"><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shriramzx&theme=dark&hide_border=true"/></a>
-</p>
+<br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=8BE9FD&center=true&vCenter=true&width=760&lines=Computer+Science+%26+AI%2FML+Student;Building+intelligent+software+systems;Exploring+AI%2C+Computer+Vision+%26+Backend;Currently+building+Jarvis.01"/>
 
+<br><br>
 
+<a href="https://github.com/shriramzx">
+<img src="https://img.shields.io/badge/GitHub-@shriramzx-020617?style=for-the-badge&logo=github&logoColor=8BE9FD"/>
+</a>
 
-👋 About Me
+<a href="https://github.com/shriramzx?tab=repositories">
+<img src="https://img.shields.io/badge/6%20Repositories-071827?style=for-the-badge&logo=github&logoColor=8BE9FD"/>
+</a>
 
-I'm a second-year B.Tech student in Computer Science & Engineering (AI/ML ) based in Chennai, India. My focus is on turning theoretical knowledge into working software — from computer vision projects with OpenCV to AI assistants powered by local LLMs, and system-level programming in C and Java.
+<br><br>
 
-I believe in the engineer's loop: build real things, understand how they work under the hood, and make them better. Every project on this profile started as curiosity and became a working system.
+`AI / ML`　•　`COMPUTER VISION`　•　`SOFTWARE`　•　`BACKEND`　•　`SYSTEMS`
 
+</div>
 
-"The best way to learn is to build."
+---
 
+<div align="center">
 
+## `01`   PROFILE
 
+</div>
 
-🚀 Currently Building
+<table>
+<tr>
 
-🤖 Jarvis.01 — A modular personal AI assistant built around voice interaction, local LLMs (Ollama), memory, intent classification, and task automation. The pipeline flows: Voice → Parser → Intent → Router → AI / Memory / Skills / Automation.
+<td width="68%" valign="top">
 
-🧑‍💻 AI Interview Portal — An AI-powered interview platform with a Java backend, featuring web technologies and AI-assisted interview workflows.
+### Building with curiosity.
 
+I'm a **B.Tech Computer Science & Engineering student specializing in AI/ML**, focused on turning concepts into practical software.
 
+My projects explore **computer vision, gesture-based interfaces, AI assistants, local LLMs, backend development and operating-system programming**.
 
+I enjoy understanding how systems work under the hood and then building something useful with that knowledge.
 
-🏆 My Project Repositories
+<br>
 
-I've built 4 open-source projects (all MIT licensed), mostly centered around computer vision and gesture-based interaction using OpenCV and MediaPipe:
+**Current direction:** AI engineering · software development · backend systems · automation
 
-1. 📷 face-attendance — Python · OpenCV
+</td>
 
-An automatic attendance system using face recognition. Built with OpenCV, it captures and matches faces against a registered database to mark attendance automatically — no manual roll call needed.
+<td width="32%" valign="top">
 
-What it demonstrates: Real-time face detection, face recognition pipelines, and practical application of computer vision in an everyday workflow.
+```text
+┌──────────────────────┐
+│       SYSTEM         │
+├──────────────────────┤
+│                      │
+│  AI / ML             │
+│  COMPUTER VISION     │
+│  BACKEND             │
+│  SYSTEMS             │
+│  AUTOMATION          │
+│                      │
+└──────────────────────┘
+```
 
-2. 🎨 gesture-painter — Python · MediaPipe · OpenCV
+</td>
 
-A virtual canvas you draw on with your hands. Using MediaPipe hand tracking and OpenCV, it lets you paint on screen by tracing finger movements — no mouse or stylus required.
+</tr>
+</table>
 
-What it demonstrates: Hand landmark detection, real-time gesture-to-ink mapping, and creative human–computer interaction.
+---
 
-3. 🧩 webcam-puzzle — Python · OpenCV
+<div align="center">
 
-A live webcam sliding puzzle made from your own face. It captures a live video frame, chops it into a sliding tile puzzle, and you solve it live — a playful twist on classic puzzle games.
+## `02`   CURRENTLY BUILDING
 
-What it demonstrates: Image tiling, live video capture, and algorithmic puzzle logic combined with OpenCV.
+</div>
 
-4. 🖼️ gesture-gallery — HTML · Three.js · MediaPipe
+<table>
+<tr>
 
-A 3D art gallery you navigate with hand gestures. Built with Three.js for the 3D scene and MediaPipe for hand tracking, you can walk through a virtual gallery and browse artwork hands-free.
+<td width="50%" valign="top">
 
-What it demonstrates: 3D web graphics, combining browser-based gesture tracking with immersive environments.
+<div align="center">
 
-Project
-One-Line Summary
-Core Tech
-face-attendance
-Automatic attendance via face recognition
-Python, OpenCV
-gesture-painter
-Paint on a canvas using hand gestures
-Python, MediaPipe, OpenCV
-webcam-puzzle
-Live webcam sliding puzzle of your own face
-Python, OpenCV
-gesture-gallery
-Navigate a 3D gallery with hand gestures
-HTML, Three.js, MediaPipe
+### 🤖 `JARVIS.01`
 
+**PERSONAL AI ASSISTANT**
 
+</div>
 
+A modular AI assistant focused on **voice interaction, local LLMs, memory, intent classification, skills and automation**.
 
+```text
+VOICE
+  ↓
+PARSER
+  ↓
+INTENT
+  ↓
+ROUTER
+  ↓
+AI / MEMORY / SKILLS
+  ↓
+AUTOMATION
+```
 
+**Stack**
 
+`Python` `Ollama` `LLMs` `Voice AI`
 
-💻 Also Working On
+</td>
 
-Project
-Description
-Tech Stack
-OS-LAB
-Operating system concepts in practice — scheduling, synchronization, algorithms
-C
+<td width="50%" valign="top">
 
+<div align="center">
 
+### 🧑‍💻 `AI INTERVIEW PORTAL`
 
+**AI-POWERED PLATFORM**
 
+</div>
 
+A Java-based application focused on **backend engineering, web development and AI-assisted interview workflows**.
 
+```text
+USER
+ ↓
+WEB
+ ↓
+JAVA BACKEND
+ ↓
+AI ENGINE
+ ↓
+EVALUATION
+```
 
-🛠 Tech Arsenal
+**Stack**
 
-AI / ML
+`Java` `HTML` `CSS` `Backend` `AI`
 
-•
-Artificial Intelligence & Machine Learning
+</td>
 
-•
-LLMs · Ollama · Voice AI · Intent Classification
+</tr>
+</table>
 
-Programming Languages
+---
 
-•
-Python · C · C++ · Java · HTML/CSS/JavaScript
+<div align="center">
 
-Backend / Systems
+## `03`   SELECTED WORK
 
-•
-Java Backend · REST APIs · Operating Systems · System Programming
+</div>
 
-Computer Vision
+<table>
 
-•
-OpenCV · MediaPipe · Face Recognition · Gesture Tracking
+<tr>
 
-Web & Tools
+<td width="50%" valign="top">
 
-•
-Three.js · Git & GitHub · VS Code · Linux
+### 📷 `face-attendance`
 
+**Face Recognition Attendance**
 
+An automatic attendance system using computer vision for face detection and recognition.
 
+`Python` `OpenCV`
 
-📊 GitHub Activity
+</td>
 
-<p align="center">
-<a href="https://github.com/shriramzx"><img alt="GitHub Contribution Graph" src="https://ghchart.rshah.org/shriramzx"/></a>
-  <a href="https://github.com/shriramzx"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriramzx&layout=compact&theme=dark&hide_border=true&langs_count=8"/></a>
-</p>
+<td width="50%" valign="top">
 
+### 🎨 `gesture-painter`
 
+**Gesture-Controlled Painting**
 
+A virtual painting system controlled through hand movements using real-time hand tracking.
 
-🎯 Current Focus
+`Python` `MediaPipe` `OpenCV`
 
-Focus Area
-What I'm Exploring
-🤖 AI Engineering
-Local LLMs, voice AI, AI assistants
-☕ Java Backend
-Web applications, APIs, interview platforms
-🧩 Systems & OS
-Scheduling, synchronization, algorithms in C
-🎨 Computer Vision
-OpenCV, MediaPipe, gesture-based interfaces
-⚡ Automation
-Workflow automation, intelligent agents
+</td>
 
+</tr>
 
+<tr>
 
+<td width="50%" valign="top">
 
+### 🧩 `webcam-puzzle`
 
+**Webcam Sliding Puzzle**
 
+A live webcam-based puzzle combining image processing, tiling and puzzle logic.
 
-📬 Let's Connect
+`Python` `OpenCV`
 
-<p align="center">
-<a href="https://github.com/shriramzx"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-handle"><img alt="Twitter" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
+</td>
 
+<td width="50%" valign="top">
 
+### 🖼️ `gesture-gallery`
 
+**Gesture-Controlled 3D Gallery**
 
-<p align="center">
-<i>Engineering intelligent software & AI systems — one project at a time.</i>
-</p>
+A browser-based 3D gallery controlled through hand gestures.
 
+`HTML` `Three.js` `MediaPipe`
 
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚙️ `OS-LAB`
+
+**Operating Systems Laboratory**
+
+A collection of operating-system concepts implemented in C.
+
+`C` `Operating Systems`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 `JARVIS.01`
+
+**Personal AI System**
+
+My ongoing exploration into building a modular personal AI assistant with local intelligence and automation.
+
+`Python` `Ollama` `AI`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## `04`   TECH ARSENAL
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,git,github,vscode,linux&theme=dark&perline=11"/>
+
+<br><br>
+
+</div>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🤖 AI / ML
+
+Machine Learning
+LLMs
+Ollama
+AI Assistants
+Automation
+
+</td>
+
+<td align="center" width="25%">
+
+### 👁️ VISION
+
+OpenCV
+MediaPipe
+Face Recognition
+Gesture Tracking
+Image Processing
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ SYSTEMS
+
+Java
+C / C++
+Operating Systems
+Scheduling
+Synchronization
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐 WEB
+
+HTML
+CSS
+JavaScript
+Three.js
+Backend APIs
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `05`   GITHUB SIGNAL
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shriramzx&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=8BE9FD&icon_color=00C8FF&text_color=C9D1D9&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriramzx&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=8BE9FD&text_color=C9D1D9" width="42%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=shriramzx&hide_border=true&background=020617&ring=8BE9FD&fire=00C8FF&currStreakLabel=8BE9FD&sideLabels=C9D1D9&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `06`   DEVELOPMENT ACTIVITY
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shriramzx&bg_color=020617&color=8BE9FD&line=00C8FF&point=FFFFFF&area=true&area_color=003047&hide_border=true&custom_title=SHRIRAM%20S%20%E2%80%94%20DEVELOPMENT%20ACTIVITY" width="96%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `07`   CURRENT FOCUS
+
+<br>
+
+<table>
+
+<tr>
+
+<td align="center">
+<br>
+🤖
+<br><br>
+<b>AI ENGINEERING</b>
+<br>
+<sub>LLMs • AI Assistants</sub>
+<br><br>
+</td>
+
+<td align="center">
+<br>
+👁️
+<br><br>
+<b>COMPUTER VISION</b>
+<br>
+<sub>OpenCV • MediaPipe</sub>
+<br><br>
+</td>
+
+<td align="center">
+<br>
+☕
+<br><br>
+<b>BACKEND</b>
+<br>
+<sub>Java • APIs</sub>
+<br><br>
+</td>
+
+<td align="center">
+<br>
+⚙️
+<br><br>
+<b>SYSTEMS</b>
+<br>
+<sub>OS • C • Algorithms</sub>
+<br><br>
+</td>
+
+<td align="center">
+<br>
+⚡
+<br><br>
+<b>AUTOMATION</b>
+<br>
+<sub>Agents • Workflows</sub>
+<br><br>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## `08`   ENGINEERING MINDSET
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=850&color=8BE9FD&center=true&vCenter=true&width=720&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+UNDERSTAND+%E2%86%92+IMPROVE"/>
+
+<br><br>
+
+> **Build real things. Understand how they work. Make them better.**
+
+</div>
+
+---
+
+<div align="center">
+
+## `09`   CONNECT
+
+<br>
+
+<a href="https://github.com/shriramzx">
+<img src="https://img.shields.io/badge/GITHUB-shriramzx-020617?style=for-the-badge&logo=github&logoColor=8BE9FD"/>
+</a>
+
+<br><br>
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│  SHRIRAM S                                   │
+│                                              │
+│  Engineering intelligent software           │
+│  & AI systems — one project at a time.       │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:003047,45:071827,100:020617&animation=twinkling"/>
+
+</div>
 
